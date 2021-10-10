@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw-01-cli",
+  "description": "node js CLI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikheenko-d-s/goit-node-hw-01-cli"
+  },
+  "author": "Mikheenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikheenko-d-s/goit-node-hw-01-cli/issues"
+  },
+  "homepage": "https://github.com/mikheenko-d-s/goit-node-hw-01-cli#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0"
+  }
+}

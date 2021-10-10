@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Mark",
+    "email": "mark.will@gmail.com",
+    "phone": "(111)-246-12-13"
+  },
+  {
+    "id": 2,
+    "name": "Oleg",
+    "email": "oleglivan@gmail.com",
+    "phone": "(222)-840-43-09"
+  },
+  {
+    "id": 3,
+    "name": "Tolya",
+    "email": "switolya@gmail.com",
+    "phone": "(333)-802-36-69"
+  },
+  {
+    "id": 4,
+    "name": "Sveta",
+    "email": "svetaonika@gmail.com",
+    "phone": "(444)-472-46-61"
+  },
+  {
+    "id": 5,
+    "name": "Robert",
+    "email": "robert.gegedosh@gmail.com",
+    "phone": "(555)-568-64-36"
+  },
+  {
+    "id": 6,
+    "name": "Katya",
+    "email": "katya.makarova@gmail.com",
+    "phone": "(666)-598-57-92"
+  },
+  {
+    "id": 7,
+    "name": "Kris",
+    "email": "morgan.kris@gmail.com",
+    "phone": "(777)-738-23-60"
+  },
+  {
+    "id": 8,
+    "name": "Thomas",
+    "email": "thomaslucas@gmail.com",
+    "phone": "(888)-398-79-93"
+  },
+  {
+    "id": 9,
+    "name": "Alex",
+    "email": "alex.shnekov@gmail.com",
+    "phone": "(999)-206-26-88"
+  }
+]
